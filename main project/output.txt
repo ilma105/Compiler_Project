@@ -1,0 +1,128 @@
+decalred variable tea
+decalred variable a
+decalred variable b
+decalred variable d
+decalred variable f
+decalred variable l
+
+ Valid declaration 
+decalred variable ro
+decalred variable py
+
+ Valid declaration 
+
+tea variable is already declared 
+
+ Valid declaration 
+
+value of variable ro~0.50 
+
+value of variable py~2.20 
+
+value of variable tea~4 
+
+value of variable t~1.50
+
+ Valid declaration 
+
+value of variable me~2
+
+ Valid declaration 
+
+value of variable a~20 
+
+value of variable b~2 
+
+value of variable d~1 
+
+value of variable f~1 
+
+value of variable l~7 
+
+Value of expression : 24 
+2010 is an even number 
+Summation from 1 to 7 is: 28
+Multiplication from 4 to 6 is: 120
+
+2021 is not a leap year 
+
+2002 is a palindrome.
+
+Factorial of 4 : 24
+4 ^ 2 = 16.00
+97 is a prime number 
+
+Value of Log Base 2 is 2.00
+
+result of divison : 0
+
+Sine Value of 45  degree  is :0.71 
+
+CoSine value of 60  degree  is :0.50 
+
+Tangent value of 45  degree  is :1.00 
+
+Secant value of 45  degree  is :1.41 
+
+Cosecant value of 60  degree  is :1.15 
+
+Cotangent value of 45  degree  is :1.00 
+
+Arc Sine Value of 0.50 is :30 degree
+
+Arc TAN Value of 1.00 is :45 degree
+
+Arc COSine Value of 0.50 is :60 degree
+
+G.C.D of 81 and 153 is 9
+
+L.C.M of 72 and 120 is 360.
+
+Absolute value of -200  is :200 
+
+Absolute value of -2.20  is :2.20 
+
+Result of MODULO function: 4
+
+Exponential value of 4.00  is :54.60 
+
+Square ROOT value of 16.00  is :4.00 
+
+Printed Value 40
+
+Printed Value 4
+
+Printed Value 2.70
+
+value in switch case:22
+
+value in the TRAVEL loop for mult : 3.00
+value in the TRAVEL loop for mult : 6.00
+value in the TRAVEL loop for mult : 12.00
+value in the TRAVEL loop for mult : 24.00
+value in the TRAVEL loop for mult : 48.00
+
+
+My roll: 105
+
+
+Value of expression in PROCEED BLOCK : 3
+
+Value of expression in PROCEED BLOCK : 5
+
+Value of expression in PROCEED BLOCK : 7
+
+
+Value of expression : 4 
+
+value of variable d~22 
+
+Value of expression in DIFFERENTLY BLOCK : 101
+
+
+Value of expression in PROVISO BLOCK : 49.00
+
+string = AAQ
+ Valid declaration 
+
+Successfully COMPILED

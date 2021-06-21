@@ -1,0 +1,96 @@
+void Friends()
+Begin
+integer tea, a , b , d , f , l ;
+float ro , py ;
+integer tea;
+ro~0.5;
+py~2.2;
+tea~4;
+float t~1.5;
+integer me~2;
+a~20,b~2,d~1,f~1,l~7;
+tea plus a;
+Even_Odd ( 2010 );
+SUM_ALL ( 1 , 7 );
+MULT_ALL ( 4 , 6 );
+LEAP_YEAR (2021) ;
+Palindrome( 2002) ;
+Factorial(4);
+POWER(4,2);
+Prime(97);
+Log(4);
+Div_ALL(0,10); 
+SIN(45);
+COS(60);
+TAN(45);
+SEC(45);
+COSEC(60);
+COT(45); 
+ASIN(0.5);
+ATAN(1.0);
+ACOS(0.5);
+GCD(81,153);
+LCM(72,120);
+ABSOLUTE(-200);
+FABS(-2.2);
+MODULO(10,6);
+EXPONENTIAL(4.0);
+ROOT(16.0);
+SHOW( 40 ); 
+SHOW( 2 plus 2 ) ; 
+SHOW( ro, plus py, );
+HANDLE -> tea 
+	Begin
+	SAMPLE 1 :
+		 SHOW( 20 );  
+	SAMPLE 2 :
+		 SHOW( 21 );  
+        SAMPLE 4 :
+		 SHOW( 22 );  
+	SAMPLE 5 :
+		 SHOW( 25 );   
+	SAMPLE 6 :
+		 SHOW( 26 );  
+	DEFAULT :
+		 SHOW( 40 );
+	Finish
+TRAVEL -> 1 : 5 
+	Begin
+	t,~ t, mult 2.0
+	Finish
+TRAVEL -> 1 : 5 
+	Begin
+	l~l plus 7
+        PROVISO-> l > 20
+        Begin
+        l~l mult 5
+	Finish
+	Finish
+PROCEED -> f < 7
+  Begin 
+      f~f plus 2 
+  Finish 
+2 plus 2 ;
+d~22;
+PROVISO -> d Gte 32 
+Begin
+ d Decre ;
+Finish
+DIFFERENTLY-> d < 32 
+Begin
+ 100 Incre ;
+Finish
+OR
+  Begin
+     100 plus 8 ;
+  Finish
+PROVISO -> t, Noteq 40.0 
+Begin
+ t, Incre ;
+Finish
+OR
+  Begin
+     t, Decre;
+  Finish
+character Aa1 ~ AAQ;
+Finish
